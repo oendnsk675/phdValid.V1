@@ -1,6 +1,4 @@
 ###############   credit  ################
-#     jika mau recode,jangann hapus      #
-#  				credit ini 				 #
 #		   checker cli amazon v2		 #
 #			    created by 				 #
 #		  sayidina ahmadal qososyi 	 	 #
