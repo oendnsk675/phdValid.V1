@@ -1,5 +1,5 @@
 ###############   credit  ################
-#		   checker cli amazon v2		 #
+#		   checker cli phd v1		 #
 #			    created by 				 #
 #		  sayidina ahmadal qososyi 	 	 #
 #			  eastlombok team 	 		 #
